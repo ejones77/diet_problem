@@ -65,7 +65,7 @@ def main():
         L >= 1,
         B >= 1,
         F >= 1,
-        H + C + L + B + F <= 27
+        H + C + L + B + F <= 28
     ]
 
     constraint_list_variety = constraint_list_plain + variety_list
