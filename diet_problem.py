@@ -19,6 +19,8 @@ def optimization(var_list, constraint_list, objective, min_or_max):
 
     for var in var_list:
         print(f"Optimal value for {var}: {value(var)}")
+    print('\n')
+    print(f"Optimal food cost: {value(prob.objective)}")
 
 def main():
     H = LpVariable("H", lowBound=0)

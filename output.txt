@@ -1,0 +1,42 @@
+PLAIN
+
+Optimal value for H: 0.0
+Optimal value for C: 0.0
+Optimal value for L: 0.0
+Optimal value for B: 34.270833
+Optimal value for F: 0.0
+
+
+Optimal food cost: 120.29062383
+
+
+Nutritional Values:
+Sodium: 24675.00 <= 35000
+Energy: 27073.96 >= 14000
+Protein: 1028.12 >= 350
+Vitamin D: 174.78 >= 140
+Calcium: 29472.92 >= 9100
+Iron: 191.92 >= 126
+Potassium: 32900.00 >= 32900
+
+
+VARIETY
+
+Optimal value for H: 1.811541
+Optimal value for C: 7.3471796
+Optimal value for L: 1.0
+Optimal value for B: 13.943253
+Optimal value for F: 3.8980263
+
+
+Optimal food cost: 144.88829494799998
+
+
+Nutritional Values:
+Sodium: 18894.71 <= 35000
+Energy: 19908.04 >= 14000
+Protein: 1173.39 >= 350
+Vitamin D: 140.00 >= 140
+Calcium: 13579.05 >= 9100
+Iron: 126.00 >= 126
+Potassium: 32900.00 >= 32900

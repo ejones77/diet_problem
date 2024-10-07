@@ -7,7 +7,9 @@ Diet Problem using linear programming
     - includes ingredient breakdown for each meal selected
     - sources used include USDA nutrition facts for each food item & the Kroger website
     - any calculations to reach the portion value are referenced in the `notes` field
-    - the `meals_per_portion` tab is spun out as a `.csv` for use in the python program
+- output from the program is provided in `output.txt`
+- testing the LLM's attempt at the assignment is shown in `llm_output.txt`
+    - the executable code from the LLM output is in `llm_code.py`
 
 ## Problem Defintion
 
@@ -23,7 +25,7 @@ Given a list of five meals, minimize the food cost for each meal, while meeting 
 | Iron      | Minimum  | 126 milligrams (mg)            |
 | Potassium | Minimum  | 32,900 milligrams (mg)         |
 
-
+The linear program in standard form is provided in the paper `Diet Problem Assignment Jones.pdf`
 
 ## set up
 - python version -- 3.11.9
